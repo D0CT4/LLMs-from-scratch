@@ -41,6 +41,10 @@ If you don't have Python set up on your machine yet, I have written about my per
 - [01_optional-python-setup-preferences](./01_optional-python-setup-preferences)
 - [02_installing-python-libraries](./02_installing-python-libraries)
 
+For Android users, there's a dedicated setup guide for running the project on mobile devices:
+
+- [05_termux-android-setup](./05_termux-android-setup)
+
 The *Using DevContainers* section below outlines an alternative approach for installing project dependencies on your machine.
 
 &nbsp;
